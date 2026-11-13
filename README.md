@@ -1,4 +1,4 @@
-###Flashing Instructions for the Technician:
+Flashing Instructions for the Technician:
 
 1. Remove the battery (turn off the device completely).
 
